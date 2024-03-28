@@ -48,6 +48,6 @@ Their annotation distribution are quite imbalanced :
 
 
 ## Experimentation and observation
-It's crystal clear that the model behave quite bad on some rare classes. Nevertheless, further improvments will be taken into account to enhance the learning on theses underweighted classes. 
+It's crystal clear that the model behaves quite bad on some scarce classes. Nevertheless, further improvments will be taken into account to enhance the learning on theses underweighted classes. 
 
 <img src="runs/train/exp12/val_batch1_pred.jpg" alt="drawing" width="700"/>
