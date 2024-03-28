@@ -1,0 +1,16 @@
+path: /home/mmhamdi/workspace/detection/damages/damages-on-car-parts-detection/car_damages_dataset/car_damages_dataset_with_yolov7_format 
+train: /home/mmhamdi/workspace/detection/damages/damages-on-car-parts-detection/car_damages_dataset/car_damages_dataset_with_yolov7_format/train.txt  
+val: /home/mmhamdi/workspace/detection/damages/damages-on-car-parts-detection/car_damages_dataset/car_damages_dataset_with_yolov7_format/val.txt 
+test: /home/mmhamdi/workspace/detection/damages/damages-on-car-parts-detection/car_damages_dataset/car_damages_dataset_with_yolov7_format/test.txt 
+
+# Classes
+names:
+  0: Missing part
+  1: Broken part
+  2: Scratch
+  3: Cracked
+  4: Dent
+  5: Flaking
+  6: Paint chip
+  7: Corrosion
+ 
